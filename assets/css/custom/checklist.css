@@ -1,0 +1,49 @@
+@charset "UTF-8";
+.state-icon {
+    left: -5px;
+}
+.list-group-item.btn-primary.active, .list-group-item.btn-primary.active:focus, .list-group-item.btn-primary.active:hover {
+    color: #fff;
+    background-color: #3276b1;
+    border-color: #285e8e;
+}
+.list-group-item.list-group-item-primary.active, .list-group-item.list-group-item-primary.active:focus, .list-group-item.list-group-item-primary.active:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(66, 139, 202);
+}
+.list-group-item.btn-success.active, .list-group-item.btn-success.active:focus, .list-group-item.btn-success.active:hover {
+    color: #fff;
+    background-color: #47a447;
+    border-color: #398439;
+}
+.list-group-item.list-group-item-success.active, .list-group-item.list-group-item-success.active:focus, .list-group-item.list-group-item-success.active:hover {
+    color: #3c763d;
+    background-color: #dff0d8;
+}
+.list-group-item.btn-info.active, .list-group-item.btn-info.active:focus, .list-group-item.btn-info.active:hover {
+    color: #fff;
+    background-color: #39b3d7;
+    border-color: #269abc;
+}
+.list-group-item.list-group-item-info.active, .list-group-item.list-group-item-info.active:focus, .list-group-item.list-group-item-info.active:hover {
+    color: #31708f;
+    background-color: #d9edf7;
+}
+.list-group-item.btn-warning.active, .list-group-item.btn-warning.active:focus, .list-group-item.btn-warning.active:hover {
+    color: #fff;
+    background-color: #ed9c28;
+    border-color: #d58512;
+}
+.list-group-item.list-group-item-warning.active, .list-group-item.list-group-item-warning.active:focus, .list-group-item.list-group-item-warning.active:hover {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+}
+.list-group-item.btn-danger.active, .list-group-item.btn-danger.active:focus, .list-group-item.btn-danger.active:hover {
+    color: #fff;
+    background-color: #d2322d;
+    border-color: #ac2925;
+}
+.list-group-item.list-group-item-danger.active, .list-group-item.list-group-item-danger.active:focus, .list-group-item.list-group-item-danger.active:hover {
+    color: #a94442;
+    background-color: #f2dede;
+}
